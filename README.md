@@ -1,16 +1,30 @@
-## Hi there 👋
+# Michel Zogbelemou
 
-<!--
-**MichelZOGBELEMOU/MichelZogbelemou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+LFCS-certified Linux administrator based in Korea, targeting Linux System Administrator, Cloud Support Engineer, Junior DevOps, and Infrastructure Operations roles.
 
-Here are some ideas to get you started:
+## Focus Areas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Linux system administration
+- Networking: DNS, DHCP, routing, firewalling
+- Cloud and infrastructure support
+- Monitoring, logging, and troubleshooting
+- Backup/restore validation
+- Bash and Python automation
+- Operations documentation and incident/change records
+
+## Featured Projects
+
+### Linux Homelab / Production Platform
+Production-style infrastructure lab documenting Linux services, network topology, monitoring, backup/restore, and operations workflows.
+
+### Sysinfo
+Python CLI tool for checking CPU, memory, and disk usage with structured logging.
+
+### Enterprise Windows Infrastructure
+Windows Server and Active Directory lab with DNS, SMB shares, Group Policy, and helpdesk workflows.
+
+## Certification
+
+- Linux Foundation Certified Systems Administrator (LFCS)
+
 -->
