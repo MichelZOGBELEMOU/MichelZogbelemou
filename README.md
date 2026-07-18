@@ -14,17 +14,15 @@ LFCS-certified Linux administrator based in Korea, targeting Linux System Admini
 
 ## Featured Projects
 
-### Linux Homelab / Production Platform
-Production-style infrastructure lab documenting Linux services, network topology, monitoring, backup/restore, and operations workflows.
+## Featured Projects
 
-### Sysinfo
-Python CLI tool for checking CPU, memory, and disk usage with structured logging.
+- [Linux Homelab / Production Platform](https://github.com/MichelZOGBELEMOU/homelab) — Production-style infrastructure lab documenting Linux systems, Proxmox, VyOS networking, inventory, validation tests, monitoring, backup/restore, incident records, and change management.
 
-### Enterprise Windows Infrastructure
-Windows Server and Active Directory lab with DNS, SMB shares, Group Policy, and helpdesk workflows.
+- [Enterprise Windows Infrastructure](https://github.com/MichelZOGBELEMOU/enterprise-windows-infrastructure) — Windows Server and Active Directory lab with DNS, SMB shares, Group Policy, WSUS concepts, helpdesk workflows, network segmentation, and troubleshooting documentation.
+
+- [SysInfo](https://github.com/MichelZOGBELEMOU/sysinfo) — Python CLI system monitor for CPU, memory, and disk usage with modular design and structured logging.
 
 ## Certification
 
 - Linux Foundation Certified Systems Administrator (LFCS)
 
--->
